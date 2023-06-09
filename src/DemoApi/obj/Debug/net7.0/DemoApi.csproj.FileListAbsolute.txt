@@ -1,0 +1,130 @@
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\appsettings.Development.json
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\appsettings.json
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\DemoApi.exe
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\DemoApi.deps.json
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\DemoApi.runtimeconfig.json
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\DemoApi.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\DemoApi.pdb
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\Google.Protobuf.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\MySql.Data.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\obj\Debug\net7.0\DemoApi.csproj.AssemblyReference.cache
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\obj\Debug\net7.0\DemoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\obj\Debug\net7.0\DemoApi.AssemblyInfoInputs.cache
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\obj\Debug\net7.0\DemoApi.AssemblyInfo.cs
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\obj\Debug\net7.0\DemoApi.csproj.CoreCompileInputs.cache
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\obj\Debug\net7.0\DemoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\obj\Debug\net7.0\DemoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\obj\Debug\net7.0\staticwebassets\msbuild.DemoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\obj\Debug\net7.0\staticwebassets\msbuild.build.DemoApi.props
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DemoApi.props
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DemoApi.props
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\obj\Debug\net7.0\scopedcss\bundle\DemoApi.styles.css
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\obj\Debug\net7.0\DemoApi.csproj.CopyComplete
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\obj\Debug\net7.0\DemoApi.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\obj\Debug\net7.0\refint\DemoApi.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\obj\Debug\net7.0\DemoApi.pdb
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\obj\Debug\net7.0\DemoApi.genruntimeconfig.cache
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\obj\Debug\net7.0\ref\DemoApi.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\StackExchange.Redis.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\System.Diagnostics.PerformanceCounter.dll
+C:\WorkSpace\poridi exam\Sample\src\API\DemoApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\appsettings.Development.json
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\appsettings.json
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\DemoApi.exe
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\DemoApi.deps.json
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\DemoApi.runtimeconfig.json
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\DemoApi.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\DemoApi.pdb
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\Google.Protobuf.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\MySql.Data.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\StackExchange.Redis.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\System.Diagnostics.PerformanceCounter.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\obj\Debug\net7.0\DemoApi.csproj.AssemblyReference.cache
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\obj\Debug\net7.0\DemoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\obj\Debug\net7.0\DemoApi.AssemblyInfoInputs.cache
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\obj\Debug\net7.0\DemoApi.AssemblyInfo.cs
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\obj\Debug\net7.0\DemoApi.csproj.CoreCompileInputs.cache
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\obj\Debug\net7.0\DemoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\obj\Debug\net7.0\DemoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\obj\Debug\net7.0\staticwebassets\msbuild.DemoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\obj\Debug\net7.0\staticwebassets\msbuild.build.DemoApi.props
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DemoApi.props
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DemoApi.props
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\obj\Debug\net7.0\scopedcss\bundle\DemoApi.styles.css
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\obj\Debug\net7.0\DemoApi.csproj.CopyComplete
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\obj\Debug\net7.0\DemoApi.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\obj\Debug\net7.0\refint\DemoApi.dll
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\obj\Debug\net7.0\DemoApi.pdb
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\obj\Debug\net7.0\DemoApi.genruntimeconfig.cache
+C:\WorkSpace\poridi exam\New folder\exam\src\DemoApi\obj\Debug\net7.0\ref\DemoApi.dll
